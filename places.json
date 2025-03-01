@@ -1,0 +1,35 @@
+{
+    "places": [
+      {
+        "name": "Main Library",
+        "latitude": 12.3456,
+        "longitude": 98.7654,
+        "info": "The largest library on campus with study spaces and resources."
+      },
+      {
+        "name": "Student Cafeteria",
+        "latitude": 12.3460,
+        "longitude": 98.7649,
+        "info": "Offers a variety of meals and snacks for students."
+      },
+      {
+        "name": "Engineering Building",
+        "latitude": 12.3471,
+        "longitude": 98.7632,
+        "info": "Home to engineering labs and lecture halls."
+      },
+      {
+        "name": "Sports Complex",
+        "latitude": 12.3490,
+        "longitude": 98.7615,
+        "info": "Includes a gym, swimming pool, and basketball courts."
+      },
+      {
+        "name": "Administration Office",
+        "latitude": 12.3445,
+        "longitude": 98.7668,
+        "info": "Main office for university administration and student services."
+      }
+    ]
+  }
+  
